@@ -1,2 +1,2 @@
 
-## https://crud-completion-formik-yup-1fa20b.netlify.app/
+## https://my-blogs-c441db.netlify.app/
