@@ -1,0 +1,25 @@
+.blogItemsView {
+  margin-left: 34%;
+  width: 600px;
+  height: 600px;
+  margin-top: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px;
+  font-family: "Roboto";
+}
+
+p,
+img {
+  padding: 10px;
+  margin: auto;
+}
+
+.category {
+  color: black;
+}
+
+img {
+  margin-left: 20px;
+}
