@@ -11,10 +11,7 @@ if (typeof window !== "undefined") {
 }
 const AddNewBlog = () => {
 
-    //toastify notification animation
-    function notify() {
-        toast.success("Password reset Sucessfull 👍,Log In Now!");
-    }
+ 
 
     const history = useHistory();
 
